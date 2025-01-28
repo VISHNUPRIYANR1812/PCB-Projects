@@ -21,3 +21,12 @@ Designed for industrial automation, automotive networks, and IoT applications, t
 💡 Excited to share this fast and efficient PCB design process! Looking forward to your thoughts and feedback. 
 
 #PCBdesign #EmbeddedSystems #CANbus #HardwareDesign #IoT #ElectronicsEngineering #Arduino #ESP32 #Automotive #IndustrialAutomation #RapidPrototyping
+
+![BOARD4](https://github.com/user-attachments/assets/79bfec65-ae3d-4d0e-a89d-415d0a7c37eb)
+
+![BOARD5](https://github.com/user-attachments/assets/a41b3e6b-08c5-42b4-ac7c-721cbc39bbf6)
+
+![BOARD1](https://github.com/user-attachments/assets/56881d60-6bb6-400f-ba21-a6acf82c20cc)
+
+
+
