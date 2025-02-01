@@ -1173,6 +1173,11 @@
     (uuid f93851b0-5ace-4117-99a7-87fe353a4723)
   )
 
+  (text "4Khz\n" (at 171.45 116.586 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4d4b0af0-8c15-45ad-960b-edd8bf430df4)
+  )
+
   (global_label "D+" (shape input) (at 152.4 95.25 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 07378756-eec5-4da8-aad3-a8b47d4feba2)
