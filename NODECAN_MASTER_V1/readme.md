@@ -4,9 +4,12 @@ The V2 design introduces critical improvements to support wireless diagnostics, 
 
 ## 🔍 V1 Limitations:
 
+
 - MCP2515 CAN Controller with TJA1050 Transceiver provided standard SPI-CAN conversion but lacked wireless capabilities.
 - DIP switch-based 120Ω termination was manually adjustable but not adaptive.
 - Limited debugging support due to single-layer PCB.
+
+  🔗 View SPI-CAN Node V1 here: [ https://www.linkedin.com/posts/vishnupriyan-rajesh-882152202_pcbdesign-embeddedsystems-canbus-activity-7289671659886718977-zMQm?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOik2IBZXqmwhw0o7HZUWEemnlgA4ag8KI]
 
 ![image](https://github.com/user-attachments/assets/d8f841fc-c3a2-45b0-8ff1-44b1cea9b638)
 
@@ -44,8 +47,6 @@ https://github.com/user-attachments/assets/42ad2c8d-1fca-4bb1-90af-36ff37ddd96d
 - 🚀 **IoT-enabled CAN Network** – Cloud integration, remote diagnostics, and OTA firmware updates.
 - 🚀 **Wi-Fi-based Configuration** – Web dashboard for real-time monitoring & control.
 - 🚀 **Advanced Debugging & Expansion** – Improved power stability, logic isolation, and interface flexibility.
-
-🔗 View SPI-CAN Node V1 here: [ https://www.linkedin.com/posts/vishnupriyan-rajesh-882152202_pcbdesign-embeddedsystems-canbus-activity-7289671659886718977-zMQm?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOik2IBZXqmwhw0o7HZUWEemnlgA4ag8KI]
 
 This V2 iteration brings higher integration, improved debugging, and wireless intelligence, redefining modern embedded networking for automotive, industrial, and IoT applications.
 
