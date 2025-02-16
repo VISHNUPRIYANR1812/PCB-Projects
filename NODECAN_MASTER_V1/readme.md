@@ -4,9 +4,8 @@ The V2 design introduces critical improvements to support wireless diagnostics, 
 
 ## 🔍 V1 Limitations:
 
-- MCP2515 CAN Controller with TJA1050 Transceiver provided standard SPI-CAN conversion but lacked wireless capabilities.
-- DIP switch-based 120Ω termination was manually adjustable but not adaptive.
-- Limited debugging support due to single-layer PCB.
+- MCP2515 CAN Controller with TJA1050 Transceiver provided standard SPI-CAN conversion but lacked debugging capabilities.
+- Requires host MCU for programming and Application circuit
 
   🔗 View SPI-CAN Node V1 here: https://github.com/VISHNUPRIYANR1812/PCB-Projects/tree/main/Isolated-SPI-CAN-Node
 
