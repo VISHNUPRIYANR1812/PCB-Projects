@@ -9,7 +9,7 @@ The V2 design introduces critical improvements to support wireless diagnostics, 
 - DIP switch-based 120Ω termination was manually adjustable but not adaptive.
 - Limited debugging support due to single-layer PCB.
 
-  🔗 View SPI-CAN Node V1 here: [ https://www.linkedin.com/posts/vishnupriyan-rajesh-882152202_pcbdesign-embeddedsystems-canbus-activity-7289671659886718977-zMQm?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOik2IBZXqmwhw0o7HZUWEemnlgA4ag8KI]
+  🔗 View SPI-CAN Node V1 here: ![SPI-CAN_NODE_REV_2]([https://github.com/user-attachments/assets/73b64297-301c-4d5b-9f3e-d4816e3f91f0)  
 
 ![image](https://github.com/user-attachments/assets/d8f841fc-c3a2-45b0-8ff1-44b1cea9b638)
 
@@ -17,7 +17,7 @@ The V2 design introduces critical improvements to support wireless diagnostics, 
 
 https://github.com/user-attachments/assets/42ad2c8d-1fca-4bb1-90af-36ff37ddd96d
 
-![SPI-CAN_NODE_REV_2](https://github.com/user-attachments/assets/73b64297-301c-4d5b-9f3e-d4816e3f91f0)  ![SPI-CAN_NODE_REV_2_OLED](https://github.com/user-attachments/assets/08a07592-9ccf-4d0a-8cd8-694324e63406)
+![SPI-CAN_NODE_REV_2_OLED](https://github.com/user-attachments/assets/08a07592-9ccf-4d0a-8cd8-694324e63406](https://github.com/VISHNUPRIYANR1812/PCB-Projects/tree/main/Isolated-SPI-CAN-Node))
 
 
 ### ✅ MCU Upgrade:
