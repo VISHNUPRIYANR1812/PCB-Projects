@@ -39,7 +39,6 @@ https://github.com/user-attachments/assets/42ad2c8d-1fca-4bb1-90af-36ff37ddd96d
 
 ### ✅ Display & Expansion:
 - OLED Display Header for real-time CAN message visualization.
-- GPIO expansion ports for additional sensor/actuator integration.
 
 ## 💡 Key Advancements:
 - 🚀 **IoT-enabled CAN Network** – Cloud integration, remote diagnostics, and OTA firmware updates.
