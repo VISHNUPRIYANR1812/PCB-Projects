@@ -1,4 +1,4 @@
-# 🚀 CANode V2: A SMARTER, WIRELESS UPGRADE! 🚀
+#  SPI-CAN Node V1 to CANode V2: A SMARTER, WIRELESS UPGRADE! 
 
 The V2 design introduces critical improvements to support wireless diagnostics, cloud integration, and real-time monitoring, making it a game-changer for CAN-based applications in automotive, industrial automation, and IoT systems.
 
