@@ -12,6 +12,8 @@ The V2 design introduces critical improvements to support wireless diagnostics, 
 
 ## ⚙️ V2 Enhancements & Architecture:
 
+https://github.com/user-attachments/assets/42ad2c8d-1fca-4bb1-90af-36ff37ddd96d
+
 ![SPI-CAN_NODE_REV_2](https://github.com/user-attachments/assets/73b64297-301c-4d5b-9f3e-d4816e3f91f0)  ![SPI-CAN_NODE_REV_2_OLED](https://github.com/user-attachments/assets/08a07592-9ccf-4d0a-8cd8-694324e63406)
 
 
